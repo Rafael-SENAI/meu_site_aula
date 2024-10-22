@@ -1,0 +1,18 @@
+body {
+    background-image: url("img/fundo.jpg");
+}
+
+h1 {
+    color: rgb(252, 134, 0);
+}
+
+h2 {
+    color: white;
+    font-family: "Fantasy", "Copperplate",;
+    font-size: 30px;
+}
+
+h4 {
+    color: rgb(252, 134, 0);
+    font-size: 45px;
+}
